@@ -1,0 +1,1 @@
+docker run -v $(pwd)/volume:/selenium-vol <image-name>
